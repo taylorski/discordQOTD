@@ -1,0 +1,8 @@
+discord.py
+Django
+gitpython
+matplotlib
+texttable
+pandas
+requests
+dblpy

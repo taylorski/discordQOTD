@@ -1,0 +1,6 @@
+[submodule "BBase"]
+	path = BBase
+	url = https://github.com/MarcoMuellner/BBase
+[submodule "BotIntercom"]
+	path = BotIntercom
+	url = https://github.com/MarcoMuellner/BotIntercom
